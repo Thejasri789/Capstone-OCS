@@ -1,0 +1,13 @@
+.head{
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100vw;
+}
+.log{
+    background-image: url(major\ logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 50px;
+
+}

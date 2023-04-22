@@ -1,0 +1,19 @@
+.del{
+    background-color: black;
+    background-image: url(select\ doc.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.delform{
+     border: 1px solid rgba(255, 255, 255, 0.295);
+    width:55%;
+    
+ background-color: rgba(255, 40, 223, 0.336);
+ color: #131010;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ width: 25%;
+ height: 30%;
+}

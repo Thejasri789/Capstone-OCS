@@ -1,0 +1,13 @@
+.sel{
+    background-color: black;
+    background-image: url(select\ doc.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 80vh
+    ;
+}
+.tab{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}

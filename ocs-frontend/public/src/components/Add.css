@@ -1,0 +1,33 @@
+
+.aform{
+    position: absolute;
+    top:15%;
+left:20%;    
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid rgba(255, 255, 255, 0.295);
+    width:55%;
+    margin: auto;
+ background-color: rgba(214, 29, 214, 0.342);
+ color: #0f0f0f;
+
+}
+.first{
+    flex:0.75;
+    margin: auto;
+   
+}
+.mid{
+    padding-left: 50px;
+}
+.hom{
+    background-color: #000;
+    background-image: url(select\ doc.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+
+    height: 80vh;
+    
+}

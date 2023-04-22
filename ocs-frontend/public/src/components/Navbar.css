@@ -1,0 +1,27 @@
+/* div{
+    background-image: url(clinic\ home\ image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
+    
+    
+} */
+.Navbar{
+    
+    background-color: rgb(248, 192, 220);
+    height: 10px;
+    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+   
+    
+  
+   
+    
+   
+}
+.link{
+    margin-top: 10%;
+    /* padding: 100px; */
+}

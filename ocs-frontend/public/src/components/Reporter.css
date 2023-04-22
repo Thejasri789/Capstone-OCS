@@ -1,0 +1,27 @@
+/* .reporter-page{
+    display: flex;
+     justify-content: center; 
+     padding-right: 50px; 
+} */
+.fomrd{
+    display: flex;
+    justify-content: center;
+}
+.reporter-page{
+    background-color: black;
+    background-image: url(reporter\ doc.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 80vh;
+   
+}
+.repform{
+    border: 1px solid rgba(255, 255, 255, 0.295);
+    width:55%;
+    margin: auto;
+    /* top: 15%; */
+    left: 20%;
+     background-color: rgba(197, 58, 202, 0.226);
+ color: rgb(246, 245, 250);
+
+}

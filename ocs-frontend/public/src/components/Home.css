@@ -1,0 +1,45 @@
+.a {
+  /* margin-top: 15%;
+    margin-left: 40%; */
+
+  /* background-image: url(ocs\ bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 100%;
+  height: 30vw; */
+  
+
+  /* background-position: center;
+    background-size: cover;
+     */
+      background-color: black;
+    background-image: url(ocs\ bg.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.bg {
+  
+  display: flex;
+ 
+  
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: auto;
+  
+  /* margin-top: 70px;
+  margin-left: 55px; */
+}
+/* .reg {
+  margin-left: 120px;
+  margin-bottom: 100px;
+} */
+/* .homebackground{
+     border: 1px solid rgba(255, 255, 255, 0.295);
+    width:55%;
+    margin: auto;
+ background-color: rgba(214, 29, 214, 0.342);
+ color: #0f0f0f;
+} */
